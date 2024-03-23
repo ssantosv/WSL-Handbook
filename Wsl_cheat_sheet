@@ -1,0 +1,37 @@
+WINDOWS SUBSYSTEM FOR LINUX (WSL) CHEAT SHEET (chuleta)
+
+Gestión sistema principal
+
+wsl --update                       #Actualizar WSL
+wsl --update --pre-release         #Actualizar WSL a versión pre si existe.
+wsl --shutdown                     #Apagar WSL
+wsl --version                      #Mostrar versión de componentes
+wsl ––status                       #Mostrar distro por defecto y versión
+
+Gestión de distribuciones
+
+wsl --list --online                                  #Listar distros en remoto para instalar
+wsl --list --distribution <nombre_Distro>            #Instalar distribución online
+wsl --list --v                                       #Lista distros instaladas y estado
+wsl --set-version <nombre_Distro> <version>          #Cambiar de versión de WSL una distro (reversible)    
+wsl --set-default-version <version>                  #Cambiar de versión por defecto para todas las distribuciones
+wsl --terminate <nombre_Distro>                      #Apagar una distro
+wsl --unresgister <nombre_Distro>                    #Eliminar una distro
+wsl --export <nombre> <archivo>                      #Exportar distro / hacer copia
+wsl --import <nombre> <archivo>                      #Importar distro / recuperar copia
+wsl --import-in-place <nombre_Distro> <ruta_al_vhdx> #Montar una distribución a partir de un disco duro ext
+
+Ejecución de comandos
+
+wsl --user <nombre_usuario> -d <nombre_Distro>   #Entrar o ejecutar en la distro por defecto con un usuario
+wsl <comando_linux>                              #Lanzar comando en distribución predeterminada 
+wsl -d <nombre_Distro> -e <comando_linux>        #Lanzar un comando en distribución desde powershell
+wsl -d <nombre_Distro> -e <comando_linux>        #Lanzar comando de Linux en Windows
+wsl -d <nombre_Distro> -e sh /RUTA/script.sh     #Lanzar un script en windows desde powershell
+wsl ~                                            #Lanzar directamente en el home
+wsl hostname -I                                  #Ver la dirección IP de las distros
+
+Acceso al sistema
+
+wsl --system           #Entrar en distribución WSLg
+wsl --debug-shell      #Entrar en distribución core (solo si el anterior comando está activo y como administrador)
