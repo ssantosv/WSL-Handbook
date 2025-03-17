@@ -11,7 +11,7 @@ wsl ––status                       #Mostrar distro por defecto y versión
 Gestión de distribuciones
 
 wsl --list --online                                  #Listar distros en remoto para instalar
-wsl --list --distribution <nombre_Distro>            #Instalar distribución online
+wsl --install --distribution <nombre_Distro>            #Instalar distribución online
 wsl --list --v                                       #Lista distros instaladas y estado
 wsl --set-version <nombre_Distro> <version>          #Cambiar de versión de WSL una distro (reversible)    
 wsl --set-default-version <version>                  #Cambiar de versión por defecto para todas las distribuciones
