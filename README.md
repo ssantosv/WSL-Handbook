@@ -1,6 +1,8 @@
 Available in paperbak (Enblish): https://www.amazon.com/-/es/WSL-Handbook-Ultimate-Practical-Subsystem/dp/B0F1FBG4KX/
 Disponible en papel, tapa blanda (español): https://www.amazon.es/WSL-Handbook-práctica-definitiva-Subsystem/dp/B0DZW2PS7P/
 
+![image](https://github.com/ssantosv/WSL-Handbook/assets/16861474/760913f6-1f3b-4478-a367-3a1f024405d3)
+
 # WSL-Handbook
 This book is more than a guide. It is aimed at those interested in using native Linux tools, both graphical and command-line, but for whom a virtual machine does not meet their needs.
 
@@ -25,7 +27,7 @@ With this book you will be able to:
 
 Diseño de portada y portada: https://instagram.com/sermade.art
 
-![image](https://github.com/ssantosv/WSL-Handbook/assets/16861474/760913f6-1f3b-4478-a367-3a1f024405d3)
 
-Ya disponible en formato físico: www.amazon.es/WSL-Handbook-práctica-definitiva-Subsystem/dp/B0DZW2PS7P
+
+
 
