@@ -1,6 +1,6 @@
 NEW VERSION, 2510, October 25!
 
-Available in paperbak (Enblish): https://www.amazon.es/dp/B0FW437SNC<br>
+Available in paperbak (English): https://www.amazon.es/dp/B0FW437SNC<br>
 Disponible en papel, tapa blanda (español): https://www.amazon.es/dp/B0FW437SNC<br>
 
 ![image](https://github.com/ssantosv/WSL-Handbook/assets/16861474/760913f6-1f3b-4478-a367-3a1f024405d3)
