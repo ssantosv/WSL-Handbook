@@ -1,5 +1,7 @@
-Available in paperbak (Enblish): https://www.amazon.com/-/es/WSL-Handbook-Ultimate-Practical-Subsystem/dp/B0F1FBG4KX/
-Disponible en papel, tapa blanda (español): https://www.amazon.es/WSL-Handbook-práctica-definitiva-Subsystem/dp/B0DZW2PS7P/
+NEW VERSION, 2510, October 25!
+
+Available in paperbak (Enblish): https://www.amazon.es/dp/B0FW437SNC<br>
+Disponible en papel, tapa blanda (español): https://www.amazon.es/dp/B0FW437SNC<br>
 
 ![image](https://github.com/ssantosv/WSL-Handbook/assets/16861474/760913f6-1f3b-4478-a367-3a1f024405d3)
 
