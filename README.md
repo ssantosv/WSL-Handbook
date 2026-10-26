@@ -1,4 +1,4 @@
-NEW VERSION, 2510, October 25!
+NEW VERSION, 2610, October 26!
 
 Available in paperbak (English): https://www.amazon.es/dp/B0FW437SNC<br>
 Disponible en papel, tapa blanda (español): https://www.amazon.es/dp/B0FW4131WB<br>
